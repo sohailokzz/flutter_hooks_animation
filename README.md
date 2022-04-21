@@ -1,9 +1,5 @@
 ## Flutter Hooks Animation
 
-A new Flutter project.
-
-## Getting Started
-
 This project is about that how we can use flutter animation easily with the help of flutter_hooks state managment package in over app.
 
 A few resources to get you started if this is your first Flutter project:
